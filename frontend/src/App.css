@@ -1,0 +1,219 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #060018;
+}
+
+/* Main Layout */
+.auth-wrapper {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+}
+
+/* LEFT SIDE */
+.auth-left {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 80px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+
+/* RIGHT SIDE (Proper Diagonal) */
+.auth-right {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 55%;
+  height: 100%;
+  background: linear-gradient(135deg, #9d4edd, #5a00d1);
+
+  /* Clean sharp diagonal */
+  clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 0% 100%);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+/* Login Card */
+.auth-card {
+  width: 340px;
+  color: white;
+}
+
+/* Heading */
+.auth-card h2 {
+  font-size: 30px;
+  margin-bottom: 35px;
+}
+
+/* Inputs */
+.auth-input {
+  width: 100%;
+  padding: 14px;
+  margin-bottom: 18px;
+  background: transparent;
+  border: 1px solid #7b2cff;
+  border-radius: 8px;
+  color: white;
+  font-size: 14px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.auth-input::placeholder {
+  color: #aaa;
+}
+
+/* Button */
+.auth-btn {
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(90deg, #9d4edd, #5a00d1);
+  border: none;
+  border-radius: 30px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-btn:hover {
+  opacity: 0.9;
+}
+
+/* Link text */
+.auth-link {
+  margin-top: 18px;
+  font-size: 14px;
+}
+
+.auth-link a {
+  color: #c77dff;
+  text-decoration: none;
+}
+
+/* Right Side Text */
+.welcome-text {
+  text-align: center;
+  max-width: 400px;
+}
+
+.welcome-text h1 {
+  font-size: 40px;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.welcome-text p {
+  font-size: 15px;
+  opacity: 0.9;
+}
+
+
+
+
+
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: radial-gradient(circle at top left, #2d004d, #0f001f 70%);
+  color: white;
+}
+
+/* Main Container */
+.dashboard-wrapper {
+  max-width: 1400px;
+  margin: auto;
+  padding: 40px;
+}
+
+/* Header */
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+/* Stats Grid */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+  margin-bottom: 50px;
+}
+
+/* Stats Card */
+.stat-card {
+  padding: 30px;
+  border-radius: 18px;
+  text-align: center;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.stat-card h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.stat-card p {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.blue { background: linear-gradient(135deg, #4e73df, #224abe); }
+.purple { background: linear-gradient(135deg, #9d4edd, #5a00d1); }
+.teal { background: linear-gradient(135deg, #00bfa6, #00796b); }
+.pink { background: linear-gradient(135deg, #ff4e91, #c2185b); }
+
+/* Bottom Layout */
+.bottom-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 30px;
+}
+
+/* Glass Section */
+.glass-card {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(20px);
+  border-radius: 18px;
+  padding: 25px;
+}
+
+/* Event Item */
+.event-item {
+  background: rgba(255,255,255,0.08);
+  padding: 18px;
+  border-radius: 14px;
+  margin-top: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Status */
+.status {
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  background: linear-gradient(90deg, #9d4edd, #5a00d1);
+}
+
+/* Activity */
+.activity-item {
+  background: rgba(255,255,255,0.08);
+  padding: 14px;
+  border-radius: 12px;
+  margin-top: 15px;
+}
