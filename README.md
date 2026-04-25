@@ -46,19 +46,20 @@ Auth           JWT, bcryptjs
 Email          Nodemailer, node-cron
 File Upload    Multer
 
-<img width="1911" height="969" alt="Screenshot 2026-04-25 103235" src="https://github.com/user-attachments/assets/c9f750b1-360c-4c92-b39f-5719e2c32631" />
-<img width="1893" height="966" alt="Screenshot 2026-04-25 103218" src="https://github.com/user-attachments/assets/80f00f47-adc2-4f43-8868-e2257f51ca94" />
-<img width="1898" height="967" alt="Screenshot 2026-04-25 103124" src="https://github.com/user-attachments/assets/a059ec8a-d36e-46e9-98a0-e8f068309822" />
-<img width="1896" height="949" alt="Screenshot 2026-04-25 103110" src="https://github.com/user-attachments/assets/73d98697-3bd1-4343-9585-9901346590db" />
-<img width="1910" height="970" alt="Screenshot 2026-04-25 103038" src="https://github.com/user-attachments/assets/1b9d61ee-0a25-4dc2-8b84-f42f661f2adc" />
-<img width="1897" height="963" alt="Screenshot 2026-04-25 102940" src="https://github.com/user-attachments/assets/d59ac33f-ec2a-4b90-b4ff-7c3166b9a908" />
-<img width="1893" height="963" alt="Screenshot 2026-04-25 102912" src="https://github.com/user-attachments/assets/d498a27a-45c3-4b38-910b-d3175ed01d3d" />
-<img width="1894" height="931" alt="Screenshot 2026-04-25 102849" src="https://github.com/user-attachments/assets/5fc58f6c-cf9a-4fbd-8282-206b1e2f2c35" />
-<img width="1905" height="959" alt="Screenshot 2026-04-25 102636" src="https://github.com/user-attachments/assets/13bd44eb-2f14-445c-91a1-c0b496023b85" />
-<img width="1895" height="965" alt="Screenshot 2026-04-25 102610" src="https://github.com/user-attachments/assets/b54f20d6-65d8-43af-a8a0-010bc95d0e63" />
-<img width="1899" height="941" alt="Screenshot 2026-04-25 102540" src="https://github.com/user-attachments/assets/48f8bbba-6db4-4a81-aead-1bf854c368fa" />
-<img width="1905" height="948" alt="Screenshot 2026-04-25 102525" src="https://github.com/user-attachments/assets/43b8e27f-8fd6-4c0d-80b1-d881f860a0ec" />
-<img width="1916" height="949" alt="Screenshot 2026-04-25 102457" src="https://github.com/user-attachments/assets/600877b8-e6c4-44aa-8138-f9afa4abaa70" />
-<img width="1919" height="949" alt="Screenshot 2026-04-25 102444" src="https://github.com/user-attachments/assets/12a19138-ce1f-4377-b2b2-52a565e42d31" />
-<img width="1898" height="957" alt="Screenshot 2026-04-25 103253" src="https://github.com/user-attachments/assets/a4cfb7f5-ed39-49fb-ba3b-7a50f11d4910" />
+<img width="1919" height="949" alt="Screenshot 2026-04-25 102444" src="https://github.com/user-attachments/assets/8fc75a75-b710-400a-aa66-8b14ce2dab03" />
+<img width="1916" height="949" alt="Screenshot 2026-04-25 102457" src="https://github.com/user-attachments/assets/5bea2e6e-7792-4aed-a669-e63a2a729fc5" />
+<img width="1905" height="948" alt="Screenshot 2026-04-25 102525" src="https://github.com/user-attachments/assets/7a3409d3-f7e4-4018-9728-7a2c8e7037fd" />
+<img width="1899" height="941" alt="Screenshot 2026-04-25 102540" src="https://github.com/user-attachments/assets/6b7ac24d-4995-4afa-9f30-6668fa8d147e" />
+<img width="1895" height="965" alt="Screenshot 2026-04-25 102610" src="https://github.com/user-attachments/assets/57dc61b8-e1c3-4fac-b802-d6759a2bda5a" />
+<img width="1905" height="959" alt="Screenshot 2026-04-25 102636" src="https://github.com/user-attachments/assets/d643748a-4e49-4f61-9d89-e5bdb229e193" />
+<img width="1894" height="931" alt="Screenshot 2026-04-25 102849" src="https://github.com/user-attachments/assets/246bb9fd-972f-45bf-8357-0a3c1acc5835" />
+<img width="1893" height="963" alt="Screenshot 2026-04-25 102912" src="https://github.com/user-attachments/assets/ec80bdde-c3dd-4f5f-b969-a94c38bc8cc6" />
+<img width="1897" height="963" alt="Screenshot 2026-04-25 102940" src="https://github.com/user-attachments/assets/b5864a2a-6dc0-48be-971f-bdb8fe5ac23c" />
+<img width="1910" height="970" alt="Screenshot 2026-04-25 103038" src="https://github.com/user-attachments/assets/d8d3245a-b51d-4194-a92e-743e71004813" />
+<img width="1896" height="949" alt="Screenshot 2026-04-25 103110" src="https://github.com/user-attachments/assets/a385423c-8167-4898-87eb-7b27056668be" />
+<img width="1898" height="967" alt="Screenshot 2026-04-25 103124" src="https://github.com/user-attachments/assets/affae40f-7ec9-449b-8339-65bff314b56a" />
+<img width="1893" height="966" alt="Screenshot 2026-04-25 103218" src="https://github.com/user-attachments/assets/01b0407e-1f88-4517-ac1f-a24fd5f131fd" />
+<img width="1911" height="969" alt="Screenshot 2026-04-25 103235" src="https://github.com/user-attachments/assets/e42b86db-df09-4434-91f1-cfb6fd64473b" />
+<img width="1898" height="957" alt="Screenshot 2026-04-25 103253" src="https://github.com/user-attachments/assets/71b12021-6c48-4060-8614-69a53fa59757" />
+
 
