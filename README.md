@@ -37,9 +37,9 @@ View all participants & registrations
 Analytics charts
 Email logs with send/fail stats
 
-🧰 Tech Stack
-Layer          Tech
-Frontend       React.js, React Router "\n"
+🧰 Tech Stack 
+Layer          Tech  <br>
+Frontend       React.js, React Router  <br>
 Backend        Node.js, Express.js 
 Database       MongoDB, Mongoose 
 Auth           JWT, bcryptjs
