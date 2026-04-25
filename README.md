@@ -37,14 +37,14 @@ View all participants & registrations
 Analytics charts
 Email logs with send/fail stats
 
-🧰 Tech Stack 
+🧰 Tech Stack  <br>
 Layer          Tech  <br>
 Frontend       React.js, React Router  <br>
-Backend        Node.js, Express.js 
-Database       MongoDB, Mongoose 
-Auth           JWT, bcryptjs
-Email          Nodemailer, node-cron
-File Upload    Multer
+Backend        Node.js, Express.js  <br>
+Database       MongoDB, Mongoose <br>
+Auth           JWT, bcryptjs <br>
+Email          Nodemailer, node-cron <br>
+File Upload    Multer <br>
 
 <img width="1919" height="949" alt="Screenshot 2026-04-25 102444" src="https://github.com/user-attachments/assets/8fc75a75-b710-400a-aa66-8b14ce2dab03" />
 <img width="1916" height="949" alt="Screenshot 2026-04-25 102457" src="https://github.com/user-attachments/assets/5bea2e6e-7792-4aed-a669-e63a2a729fc5" />
