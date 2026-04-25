@@ -39,7 +39,7 @@ Email logs with send/fail stats
 
 🧰 Tech Stack
 Layer          Tech
-Frontend       React.js, React Router
+Frontend       React.js, React Router "\n"
 Backend        Node.js, Express.js 
 Database       MongoDB, Mongoose 
 Auth           JWT, bcryptjs
